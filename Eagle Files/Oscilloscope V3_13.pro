@@ -1,0 +1,25 @@
+EAGLE AutoRouter Statistics:
+
+Job           : C:/SPB_DATA/eagle/Final Oscilloscope/Oscilloscope V3.brd
+
+Start at      : 10:27:51 (4/15/2021)
+End at        : 10:28:07 (4/15/2021)
+Elapsed time  : 00:00:06
+
+Signals       :    46   RoutingGrid: 12.5 mil  Layers: 2
+Connections   :   138   predefined:  0 ( 0 Vias )
+
+Router memory :   459488
+
+Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
+
+Time per pass     :  00:00:00  00:00:02  00:00:01  00:00:01  00:00:01  00:00:01
+Number of Ripups  :         0         0         0         0         0         0
+max. Level        :         0         1         0         0         0         0
+max. Total        :         0         0         0         0         0         0
+
+Routed            :         4       121       124       124       124       124
+Vias              :         0        50        31        21        18        19
+Resolution        :     2.9 %    87.7 %    89.9 %    89.9 %    89.9 %    89.9 %
+
+Final             : 
